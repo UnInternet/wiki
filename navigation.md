@@ -1,3 +1,3 @@
-# ÆEEEEÆEEEEÆEEEÆEEEA
+# UnInternet Wiki
 
 [gimmick:theme](spacelab)
